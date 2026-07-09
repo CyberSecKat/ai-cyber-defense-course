@@ -79,3 +79,7 @@ got flagged, and adjust the rules directly.
 ```
 
 ## Usage
+
+```
+python sysmon_parser.py
+```
