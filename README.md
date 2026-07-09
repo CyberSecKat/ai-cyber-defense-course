@@ -31,13 +31,13 @@ boundary in mind.
 |--------|-------|--------|
 | 1 | The Claude Ecosystem | ✅ Complete |
 | 2 | Building Your First Security Tool (Sysmon Parser) | 🔄 In Progress |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
-| 3 | *(add as you go)* | ⬜ Not Started |
+| 3 | MCP - Wrapping Security CLIs | ⬜ Not Started |
+| 4 | MCP - Detection Knowledge Bases | ⬜ Not Started |
+| 5 | Skills - Codifying Methodology | ⬜ Not Started |
+| 6 | Module 6 | ⬜ Not Started |
+| 7 | Module 7 | ⬜ Not Started |
+| 8 | Module 8 | ⬜ Not Started |
+| 9 | Module 9 | ⬜ Not Started |
 
 ## Featured Projects
 
