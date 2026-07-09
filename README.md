@@ -31,13 +31,16 @@ boundary in mind.
 |--------|-------|--------|
 | 1 | The Claude Ecosystem | ✅ Complete |
 | 2 | Building Your First Security Tool (Sysmon Parser) | 🔄 In Progress |
-| 3 | MCP - Wrapping Security CLIs | ⬜ Not Started |
+| 3 | MCP - Wrapping Security CLIs | 🔄 In Progress |
 | 4 | MCP - Detection Knowledge Bases | ⬜ Not Started |
 | 5 | Skills - Codifying Methodology | ⬜ Not Started |
-| 6 | Module 6 | ⬜ Not Started |
-| 7 | Module 7 | ⬜ Not Started |
-| 8 | Module 8 | ⬜ Not Started |
-| 9 | Module 9 | ⬜ Not Started |
+| 6 |Slash Commands - Repeatable Workflows | ⬜ Not Started |
+| 7 | Hooks - Automation Triggers | ⬜ Not Started |
+| 8 | Complex Analysis - Threat Intel & Multi-Source Correlation | ⬜ Not Started |
+| 9 | Reports and Artifacts | ⬜ Not Started |
+| 10 | End-to-End Purple Team Workflow | ⬜ Not Started |
+| 11 | System Prompts for Security Personas | ⬜ Not Started |
+| 12 | Cross-SIEM Investigation - Correlating SysMon and CloudTrail | ⬜ Not Started |
 
 ## Featured Projects
 
