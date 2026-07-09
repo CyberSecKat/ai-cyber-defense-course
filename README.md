@@ -73,3 +73,4 @@ parser, for example, the field selection wasn't arbitrary, Image, CommandLine,
 ParentImage, User, and IntegrityLevel were chosen because they cover the core 
 who/what/how/privilege questions an analyst asks first when triaging a 
 process-creation event.
+
