@@ -30,10 +30,10 @@ boundary in mind.
 | Module | Topic | Status |
 |--------|-------|--------|
 | 1 | The Claude Ecosystem | ✅ Complete |
-| 2 | Building Your First Security Tool (Sysmon Parser) | 🔄 In Progress |
-| 3 | MCP - Wrapping Security CLIs | 🔄 In Progress |
-| 4 | MCP - Detection Knowledge Bases | ⬜ Not Started |
-| 5 | Skills - Codifying Methodology | ⬜ Not Started |
+| 2 | Building Your First Security Tool (Sysmon Parser) | ✅ Complete |
+| 3 | MCP - Wrapping Security CLIs | ✅ Complete |
+| 4 | MCP - Detection Knowledge Bases | 🔄 In Progress |
+| 5 | Skills - Codifying Methodology | 🔄 In Progress |
 | 6 |Slash Commands - Repeatable Workflows | ⬜ Not Started |
 | 7 | Hooks - Automation Triggers | ⬜ Not Started |
 | 8 | Complex Analysis - Threat Intel & Multi-Source Correlation | ⬜ Not Started |
