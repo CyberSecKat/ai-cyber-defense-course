@@ -5,7 +5,6 @@
 **Course:** AI Cyber Defense Ops
 **Module:** 3 — Model Context Protocol (MCP) — Wrapping Security CLIs
 **Date:** July 11, 2026
-**Status:** Phase 1 of 6 complete
 
 ---
 
