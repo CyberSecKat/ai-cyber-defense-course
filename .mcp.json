@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "hayabusa": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["module-3-mcp-hayabusa/server.py"],
+      "env": {
+        "HAYABUSA_PATH": "C:\\Tools\\hayabusa\\hayabusa-3.10.0-win-x64.exe"
+      }
+    }
+  }
+}
